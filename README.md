@@ -2,10 +2,17 @@
 Materials in "AlteredWind: Manipulating Perceived Direction of the Wind by Cross-modal presentation of Visual, Audio and Wind Stimuli"
 
 ## Content
-### `Audio` directory
+### `audio` directory
 It contains the audio files used in AlteredWind.
 
-## Licence
+- `fan-*.wav`
+    - Three-dimensional sounds of wind from every 30◦ rotation angle.
+    - For the best result, we recommend you to use headphones to play them.
+    - ![](sound-positions.png)
+- `fan-mono.wav`
+    - The sound of the wind that was converted to monaural sound for comparison.
+
+## License
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
 </a><br>
